@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## SUMMARY
 
-You can use the [editor on GitHub](https://github.com/ljhopkins2/ljhopkins2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Trained in Analytics, Machine Learning, and Data Storytelling, I bring 15 years of client-facing and team leadership experience in answering complex business questions and inspiring action with data-driven insights.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## SKILLS
 
-### Markdown
+- **Predictive Modeling & Analytics.** Linear & Logistic Regression; Classification Modeling; kNN, Decision Trees/Random Forests; Regularization with LASSO, Ridge, ElasticNet; Model Evaluation & Tuning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Machine Learning.** Data Wrangling; Feature Engineering; Bootstrapping; Bagging/Boosting; Cross-Validation; Grid Search & Gradient Descent
 
-```markdown
-Syntax highlighted code block
+- **Languages/Packages.** Python: pandas, sklearn, statsmodels; SQL;  Scala, Spark
 
-# Header 1
-## Header 2
-### Header 3
+- **Natural Language Processing.** Tokens, Lemmas, & Stems; Vectorization; TF-IDF; Sentiment/Valence Analysis (VADER)
 
-- Bulleted
-- List
+- **Data Visualization.** Seaborn, Matplotlib, Tableau
 
-1. Numbered
-2. List
+## REPRESENTATIVE PROJECTS
 
-**Bold** and _Italic_ and `Code` text
+**Predicting Neonatal Sepsis in Sub-Saharan Africa**
+  - Data Wrangling
+  - Logistic Regression
+  - Unsupervised Learning (k Means & DBSCAN)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ljhopkins2/ljhopkins2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Post-Disaster Emergency Radio Dispatch Mapping**
+  - Open-source Tool Development
+  - Speech-to-Text
+  - Natural Language Processing
+  - Geolocation
