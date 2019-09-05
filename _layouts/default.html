@@ -16,24 +16,17 @@
       <header>
         <h1>Joseph Hopkins</h1>
         <p><font style="font-variant: small-caps">Data Science<br>Business Advisory<br>Project Leadership</font></p>
+
         <img src="assets/headshot.jpeg" width="150">
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
         
         <p class="view"><img src="assets/linkedin.png" width="15">&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ljhopkins/">View My LinkedIn Profile</a></p>
         
-        {% if site.github.is_user_page %}
+        <p class="view"><img src="assets/medium.png" width="15">&nbsp;&nbsp;<a href="https://medium.com/@ljhopkins">View My Medium Posts</a></p>
+        
         <p class="view"><img src="assets/github.png" width="15">&nbsp;&nbsp;<a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
