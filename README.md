@@ -20,7 +20,7 @@ Trained in Analytics, Machine Learning, and Data Storytelling, I bring over 15 y
 
 ## REPRESENTATIVE PROJECTS
 
-**Predicting Neonatal Sepsis in Sub-Saharan Africa**
+**[Predicting Neonatal Sepsis in Sub-Saharan Africa](sepsis.md)**
   - Data Wrangling
   - Logistic Regression
   - Unsupervised Learning (k Means & DBSCAN)
