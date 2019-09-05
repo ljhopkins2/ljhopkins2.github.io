@@ -2,6 +2,8 @@
 
 Trained in Analytics, Machine Learning, and Data Storytelling, I bring 15 years of client-facing and team leadership experience in answering complex business questions and inspiring action with data-driven insights.
 
+---
+
 ## SKILLS
 
 - **Predictive Modeling & Analytics.** Linear & Logistic Regression; Classification Modeling; kNN, Decision Trees/Random Forests; Regularization with LASSO, Ridge, ElasticNet; Model Evaluation & Tuning
@@ -13,6 +15,8 @@ Trained in Analytics, Machine Learning, and Data Storytelling, I bring 15 years 
 - **Natural Language Processing.** Tokens, Lemmas, & Stems; Vectorization; TF-IDF; Sentiment/Valence Analysis (VADER)
 
 - **Data Visualization.** Seaborn, Matplotlib, Tableau
+
+---
 
 ## REPRESENTATIVE PROJECTS
 
