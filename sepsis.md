@@ -12,7 +12,7 @@ Emory University_
 
 However, little is known about the incidence, risk factors, or [etiology](https://en.wikipedia.org/wiki/Etiology) of neonatal sepsis in sub-Saharan Africa (SSA). The [WHO reports](https://www.who.int/gpsc/country_work/gpsc_ccisc_fact_sheet_en.pdf) “newborns are at higher risk of acquiring health care-associated infection in developing countries, with infection rates three to twenty times higher than in high-income countries.” A study in Nigeria reported 6.5 cases of neonatal sepsis per 1,000 live births in a referral hospital, and 21 cases of neonatal sepsis per 1,000 live births were reported from a referral hospital in Zimbabwe. There are no population-level estimates of neonatal sepsis in Ethiopia.
 
-The study at hand will be the first known work to rigorously examine the burden of healthcare-acquired infections among facility-born neonates at healthcare facilities with limited WASH infrastructure and practices in a low-income country.
+The study at hand will be the first known work to rigorously examine the burden of facility-acquired infections among facility-born neonates at healthcare facilities with limited WASH infrastructure and practices in a low-income country.
 
 <sub><super>
 _**Source:**<br>
