@@ -1,6 +1,6 @@
 ## SUMMARY
 
-Trained in Analytics, Machine Learning, and Data Storytelling, I bring 15 years of client-facing and team leadership experience in answering complex business questions and inspiring action with data-driven insights.
+Trained in Analytics, Machine Learning, and Data Storytelling, I bring over 15 years of client-facing and team leadership experience in answering complex business questions and inspiring action with data-driven insights.
 
 ---
 
