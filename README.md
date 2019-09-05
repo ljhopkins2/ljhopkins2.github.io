@@ -25,7 +25,7 @@ Trained in Analytics, Machine Learning, and Data Storytelling, I bring over 15 y
   - Logistic Regression
   - Unsupervised Learning (k Means & DBSCAN)
 
-**Post-Disaster Emergency Radio Dispatch Mapping**
+**[Post-Disaster Emergency Radio Dispatch Mapping](dispatch-map.md)**
   - Open-source Tool Development
   - Speech-to-Text
   - Natural Language Processing
