@@ -6,7 +6,9 @@ DSI-ATL-8: Anthony Chapman, Carol Chiu, Kwamae Delva, and Joseph Hopkins
 
 ## Problem Statement
 
-_**Problem 10:** Using live police radio reports for real time identification of people needing assistance._
+This work was done as part of a team project during my Data Science Immersive at General Assembly in the summer of 2019. We worked on behalf of a client that consulted to US Federal and State agencies in disaster response and management. The client supplied a list of real-world problems they were working on that could be addressed by data science techniques and tools. Our team selected the following prompt:
+
+_**Using live police radio reports for real time identification of people needing assistance.**_
 
 >Currently, FEMA identifies areas that require immediate attention (for search and rescue efforts) either by responding to reports and requests put directly by the public or, recently, using social media posts. This tool will utilize live police radio reports to identify hot spots representing locations of people who need immediate attention. The tool will flag neighborhoods or specific streets where the police and first-respondents were called to provide assistance related to the event.
 
@@ -19,13 +21,13 @@ During a disaster, auxiliary responders (such as those under the direction of FE
 
 In aggregate, during a time of emergency, visualizing where on the map first responders are being dispatched to can give those leading auxiliary response efforts valuable information about where they should be sending their support.
 
->One of my primary contributions to this project is the open-source [Broadcastify Archive Toolkit library](https://github.com/ljhopkins2/BArT). Head over to that repo to see an example of my work implementing Python classes.
+>**One of my primary contributions to this project is the open-source [Broadcastify Archive Toolkit library](https://github.com/ljhopkins2/BArT). Head over to that repo to see an example of my work implementing Python classes.**
 
 
 
 ## Framework
 
- <img src="assets/framework.png" align="right" width="200">We conceived a five-step process to represent the end-to-end journey of a radio transmission to a point potted on a map.That framework is **represented graphically nearby**. Below we'll briefly describe each step in the framework, what we built, and what next steps could be to advance the state of the art on a full-fledged dispatch-to-heatmap tool.
+ <img src="assets/framework.png" align="right" width="200">We conceived a five-step process to represent the end-to-end journey of a radio transmission to a point potted on a map.That framework is represented graphically nearby. Below we'll briefly describe each step in the framework, what we built, and what next steps could be to advance the state of the art on a full-fledged dispatch-to-heatmap tool.
 
 ### 01 Acquire Archive Audio
 
@@ -43,7 +45,7 @@ As of this writing, some enhancements we'd like to see on BArT include
 - De-coupling mp3 filename scraping from archive build; do it during download instead
 - Parallelize mp3 filename acquisition & mp3 download
 - Register BArT with [pyPI](https://pypi.org/)
-- Create a setup script (pip install bart) to gracefully handle dependencies
+- Create a setup script (`pip install bart`) to gracefully handle dependencies
 - Built-in pickler/de-pickler?
 
 ### 02 Parse & Segment Audio
