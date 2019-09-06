@@ -14,10 +14,8 @@ However, little is known about the incidence, risk factors, or [etiology](https:
 
 The study at hand will be the first known work to rigorously examine the burden of facility-acquired infections among facility-born neonates at healthcare facilities with limited WASH infrastructure and practices in a low-income country.
 
-<sub><super>
 **Source:**<br>
 _WHSC Synergy Award Proposal_, Christine L. Moe, PhD & John N. Cranmer, DNP, MPH, MSN, ANP-BC
-</sub></super>
 
 ### Data Science Challenge
 
