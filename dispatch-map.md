@@ -2,10 +2,6 @@
 
 # Mapping Emergency Dispatch Transmissions
 
-**General Assembly Data Science Immersive**<br>
-Project 5: Client Project<br>
-DSI-ATL-8: Anthony Chapman, Carol Chiu, Kwamae Delva, and Joseph Hopkins
-
 ## Problem Statement
 
 This work was done as part of a team project during my Data Science Immersive at General Assembly in the summer of 2019. We worked on behalf of a client that consulted to US Federal and State agencies in disaster response and management. The client supplied a list of real-world problems they were working on that could be addressed by data science techniques and tools. Our team selected the following prompt:
@@ -23,7 +19,7 @@ During a disaster, auxiliary responders (such as those under the direction of FE
 
 In aggregate, during a time of emergency, visualizing where on the map first responders are being dispatched to can give those leading auxiliary response efforts valuable information about where they should be sending their support.
 
->**One of my primary contributions to this project is the open-source [Broadcastify Archive Toolkit library](https://github.com/ljhopkins2/BArT). Head over to that repo to see an example of my work implementing Python classes.**
+>**One of my primary contributionn to this project is the open-source [python Broadcastify Archive Toolkit library](https://github.com/ljhopkins2/pybartok). Head over to that repo to see an example of my work implementing Python classes.**
 
 
 
