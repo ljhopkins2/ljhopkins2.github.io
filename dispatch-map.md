@@ -19,7 +19,7 @@ During a disaster, auxiliary responders (such as those under the direction of FE
 
 In aggregate, during a time of emergency, visualizing where on the map first responders are being dispatched to can give those leading auxiliary response efforts valuable information about where they should be sending their support.
 
->**One of my primary contributionn to this project is the open-source [python Broadcastify Archive Toolkit library](https://github.com/ljhopkins2/pybartok). Head over to that repo to see an example of my work implementing Python classes.**
+>**One of my primary contributions to this project is the open-source [Broadcastify Archive Toolkit library](https://github.com/ljhopkins2/broadcastify-archtk) for python. Head over to that repo to see an example of my work implementing Python classes.**
 
 
 
