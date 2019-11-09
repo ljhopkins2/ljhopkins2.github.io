@@ -34,17 +34,8 @@ We decided to focus on acquiring archived dispatch transmissions rather than on 
 
 #### _What We Built_
 
-We used [Broadcastify](www.broadcastify.com) ("the world's largest source of Public Safety...live audio streams") as our source of archived dispatches. Because this process proved to be highly manual and time-consuming (in our own experience and that of previous projects we referenced), we developed the Broadcastify Archive Toolkit (BArT) to automate this process. We encourage future cohorts to leverage or iterate this tool to leapfrog the cumbersome manual download process. Documentation for BArT can be found in the [GitHub repo](https://github.com/ljhopkins2/BArT).
+We used [Broadcastify](www.broadcastify.com) ("the world's largest source of Public Safety...live audio streams") as our source of archived dispatches. Because this process proved to be highly manual and time-consuming (in our own experience and that of previous projects we referenced), we developed the Broadcastify Archive Toolkit (BArT) to automate this process. We encourage future cohorts to leverage or iterate this tool to leapfrog the cumbersome manual download process. Documentation for BArT can be found in the [GitHub repo](https://github.com/ljhopkins2/broadcastify-archtk).
 
-#### _Next Steps_
-
-As of this writing, some enhancements we'd like to see on BArT include
-- Flexible date/time selection on .build() method
-- De-coupling mp3 filename scraping from archive build; do it during download instead
-- Parallelize mp3 filename acquisition & mp3 download
-- Register BArT with [pyPI](https://pypi.org/)
-- Create a setup script (`pip install bart`) to gracefully handle dependencies
-- Built-in pickler/de-pickler?
 
 ### 02 Parse & Segment Audio
 
