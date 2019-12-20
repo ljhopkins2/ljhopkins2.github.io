@@ -1,20 +1,17 @@
 ## SUMMARY
 
-Trained in Analytics, Machine Learning, and Data Storytelling, I bring over 15 years of client-facing and team leadership experience in answering complex business questions and inspiring action with data-driven insights.
+Freshly minted applied data scientist with 15+ years of client-facing and technology project management experience. Author of the open-source [`broadcastify-archtk`](https://ljhopkins2.github.io/broadcastify-archtk/) Python toolkit. Finished in the top 3% of peers in classic Ames housing regression Kaggle competition. Skilled in machine learning, programming, and problem solving. A lifetime learner and teacher, I'm ready to do amazing things as an applied data scientist.
 
 ---
 
 ## SKILLS
 
-- **Predictive Modeling & Analytics.** Linear & Logistic Regression; Classification Modeling; kNN, Decision Trees/Random Forests; Regularization with LASSO, Ridge, ElasticNet; Model Evaluation & Tuning
-
-- **Machine Learning.** Data Wrangling; Feature Engineering; Bootstrapping; Bagging/Boosting; Cross-Validation; Grid Search & Gradient Descent
-
-- **Languages/Packages.** Python: pandas, sklearn, statsmodels; SQL;  Scala, Spark
-
-- **Natural Language Processing.** Tokens, Lemmas, & Stems; Vectorization; TF-IDF; Sentiment/Valence Analysis (VADER)
-
-- **Data Visualization.** Seaborn, Matplotlib, Tableau
+```
+>>>>>--- Python (pandas; sklearn)   >>>>>>-- Data Wrangling             >>>>>>>> Learning & Teaching
+>>>>>>-- SQL                        >>>>>>-- EDA                        >>>>>>>- Client Management
+>>>>>--- Machine Learning           >>>>---- Data Visualization         >>>>>>>> Project Management
+>>>>>--- Web scraping               >>>----- Statistics & Probability   >>>>>>-- Analytic Methodology
+```
 
 ---
 
