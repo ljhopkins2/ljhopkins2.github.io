@@ -7,10 +7,18 @@ Freshly minted applied data scientist with 15+ years of client-facing and techno
 ## SKILLS
 
 ```
->>>>>--- Python (pandas; sklearn)   >>>>>>-- Data Wrangling             >>>>>>>> Learning & Teaching
->>>>>>-- SQL                        >>>>>>-- EDA                        >>>>>>>- Client Management
->>>>>--- Machine Learning           >>>>---- Data Visualization         >>>>>>>> Project Management
->>>>>--- Web scraping               >>>----- Statistics & Probability   >>>>>>-- Analytic Methodology
+>>>>>--- Python (pandas; sklearn)
+>>>>>>-- SQL
+>>>>>--- Machine Learning
+>>>>>--- Web scraping
+>>>>>>-- Data Wrangling
+>>>>>>-- EDA
+>>>>---- Data Visualization
+>>>----- Statistics & Probability
+>>>>>>>> Learning & Teaching
+>>>>>>>- Client Management
+>>>>>>>> Project Management
+>>>>>>-- Analytic Methodology
 ```
 
 ---
