@@ -1,18 +1,19 @@
 ## SUMMARY
 
-Freshly minted applied data scientist with 15+ years of client-facing and technology project management experience. Author of the open-source [`broadcastify-archtk`](https://ljhopkins2.github.io/broadcastify-archtk/) Python toolkit. Finished in the top 3% of peers in classic Ames housing regression Kaggle competition. Skilled in machine learning, programming, and problem solving. A lifetime learner and teacher, I'm ready to do amazing things as an applied data scientist.
+Recently pivoted into applied data science after 15+ years of client-facing and technology project management roles. Former Data Science Resident at Quansight, LLC, working with the authors and inventors of Numpy and Conda. Author of the open-source [`broadcastify-archtk`](https://ljhopkins2.github.io/broadcastify-archtk/) Python toolkit. Skilled in machine learning, programming, and problem solving. Lifetime learner and teacher.
 
 ---
 
 ## SKILLS
 
 ```
->>>>>--- Python (pandas; sklearn)
+>>>>>--- Python
 >>>>>>-- SQL
 >>>>>--- Machine Learning
->>>>>--- Web scraping
+>>>>---- Distributed Computing
 >>>>>>-- Data Wrangling
 >>>>>>-- EDA
+>>>>>--- Web Scraping
 >>>>---- Data Visualization
 >>>----- Statistics & Probability
 >>>>>>>> Learning & Teaching
@@ -20,6 +21,22 @@ Freshly minted applied data scientist with 15+ years of client-facing and techno
 >>>>>>>> Project Management
 >>>>>>-- Analytic Methodology
 ```
+
+---
+
+## RECENT ROLES
+
+**Senior Data Scientist, Machine Learning** (current)<br>
+AudioEye, Inc.
+
+**Data Science Resident**<br>
+Quansight, LLC
+
+**Data Science Fellow**<br>
+**Lead Local Instructor**<br>
+General Assembly
+
+_[view resumé](https://docs.google.com/document/d/1oQ5vVXqSnUTfy97xP1-TD46l9QOc-6mUHX4mkTtVktI/edit?usp=sharing)_
 
 ---
 
