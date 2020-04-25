@@ -36,6 +36,7 @@ Quansight, LLC
 **Lead Local Instructor**<br>
 General Assembly
 
+_[view resumé](https://docs.google.com/document/d/1oQ5vVXqSnUTfy97xP1-TD46l9QOc-6mUHX4mkTtVktI/edit?usp=sharing)_
 
 ---
 
